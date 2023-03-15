@@ -22,3 +22,6 @@
 - Dê acesso de UPDATE, DELETE, INSERT a três usuários;
 - Remova o acesso de DELETE dos três usuários anteriores;
 - Realize o backup do banco de dados criado.
+
+
+![campanha_seguros_def](https://user-images.githubusercontent.com/122938850/225349445-c9011680-e121-429f-8ba7-0dd33b939da8.png)
